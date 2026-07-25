@@ -50,6 +50,7 @@ fast, and scattered across vendor blogs. This list gathers it in one place.
 - [hashgraph-online/hol-guard](https://github.com/hashgraph-online/hol-guard) - Guard for agent skills / prompt-injection and exfiltration patterns.
 - [getagentseal/agentseal](https://github.com/getagentseal/agentseal) - Agent-extension vetting/sealing tool.
 - [uncloak](https://github.com/fevziegeyurtsevenler/uncloak) - Zero-dependency, **multilingual** scanner for hidden prompt injection & supply-chain risks in Skills, MCP configs and rules files; decodes invisible Unicode, maps findings to OWASP/ATLAS, emits SARIF.
+- [llm-security-skills](https://github.com/fevziegeyurtsevenler/llm-security-skills) - Agent Skills that turn a coding agent into an LLM security reviewer (prompt-injection testing, OWASP LLM Top 10 audit, MCP/RAG review, KVKK/PII), EN + TR.
 
 ## Adjacent: LLM Red-Teaming & Guardrails
 
@@ -91,6 +92,7 @@ Not extension-specific, but foundational for testing and defending the agents th
 
 - [verazuo/jailbreak_llms](https://github.com/verazuo/jailbreak_llms) - 15k+ in-the-wild jailbreak prompts.
 - [AltaySec/turkish-llm-injection](https://huggingface.co/datasets/AltaySec/turkish-llm-injection) - Turkish-language prompt-injection dataset (non-English coverage is a common blind spot).
+- [prompt-injection-corpus](https://github.com/fevziegeyurtsevenler/prompt-injection-corpus) - Multilingual (EN+TR) prompt-injection & jailbreak technique corpus, each entry paired with its defense.
 - [skills-in-the-wild dataset](https://github.com/fevziegeyurtsevenler/skills-in-the-wild) - Labeled findings over real public agent extensions.
 
 ## Defense Guidance
