@@ -1,3 +1,5 @@
+<p align="center"><img src="assets/banner.svg" alt="awesome-agent-supply-chain-security" width="100%"></p>
+
 # Awesome Agent Supply-Chain Security [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 > A curated list of tools, research, standards, datasets and reading on the
