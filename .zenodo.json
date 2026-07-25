@@ -1,0 +1,23 @@
+{
+  "title": "awesome-agent-supply-chain-security",
+  "description": "A curated list of tools, research, standards and datasets for AI agent extension security.",
+  "creators": [
+    {
+      "name": "Yurtsevenler, Fevzi Ege",
+      "affiliation": "AltaySec"
+    }
+  ],
+  "keywords": [
+    "LLM security",
+    "AI security",
+    "prompt injection",
+    "agent security",
+    "OWASP LLM Top 10",
+    "awesome list",
+    "supply chain",
+    "MCP"
+  ],
+  "license": "CC0-1.0",
+  "upload_type": "other",
+  "access_right": "open"
+}
