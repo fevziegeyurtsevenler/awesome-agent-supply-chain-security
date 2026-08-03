@@ -128,3 +128,21 @@ valued.
 
 To the extent possible under law, the maintainers have waived all copyright and
 related or neighboring rights to this work.
+
+---
+
+## İlgili AltaySec Kaynakları
+
+- 📖 [Skill Poisoning: SKILL.md Tedarik Zinciri Saldırısı ve ClawHavoc](https://altaysec.com.tr/arastirmalar/skill-poisoning-skillmd-tedarik-zinciri) — konunun derinlemesine Türkçe analizi
+- 🌐 [AltaySec Araştırmalar](https://altaysec.com.tr/arastirmalar/) — Türkçe yapay zekâ güvenliği yazıları
+
+## Atıf
+
+```bibtex
+@software{altaysec_awesome_agent_supply_chain_security_2026,
+  author = {{AltaySec}},
+  title  = {awesome-agent-supply-chain-security},
+  year   = {2026},
+  url    = {https://github.com/fevziegeyurtsevenler/awesome-agent-supply-chain-security}
+}
+```
