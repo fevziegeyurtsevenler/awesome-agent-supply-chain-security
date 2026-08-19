@@ -53,6 +53,7 @@ fast, and scattered across vendor blogs. This list gathers it in one place.
 - [getagentseal/agentseal](https://github.com/getagentseal/agentseal) - Agent-extension vetting/sealing tool.
 - [uncloak](https://github.com/fevziegeyurtsevenler/uncloak) - Zero-dependency, **multilingual** scanner for hidden prompt injection & supply-chain risks in Skills, MCP configs and rules files; decodes invisible Unicode, maps findings to OWASP/ATLAS, emits SARIF.
 - [llm-security-skills](https://github.com/fevziegeyurtsevenler/llm-security-skills) - Agent Skills that turn a coding agent into an LLM security reviewer (prompt-injection testing, OWASP LLM Top 10 audit, MCP/RAG review, KVKK/PII), EN + TR.
+- [jamesdfinance-dev/lazaretto-mcp](https://github.com/jamesdfinance-dev/lazaretto-mcp) - MCP server and API for pre-install verification of skills, tools and npm packages; checks lockfile dependencies against OSV/OpenSSF malicious-package advisories and runs deterministic behavioral scans (credential theft, exfiltration, obfuscation, prompt injection, install-time droppers) with file-and-line evidence.
 
 ## Adjacent: LLM Red-Teaming & Guardrails
 
